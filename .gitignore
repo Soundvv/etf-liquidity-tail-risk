@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+src/raw_*.csv
+src/ready_*.csv
+src/summary_descriptive_statistics.csv
+src/pit_outputs/
+src/tables/
+src/figures/
